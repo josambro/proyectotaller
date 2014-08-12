@@ -1,4 +1,0 @@
-proyectotaller
-==============
-
-modulo de seguridad
